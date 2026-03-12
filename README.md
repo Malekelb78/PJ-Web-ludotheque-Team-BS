@@ -1,19 +1,19 @@
-# Ludothèque â€” Projet Web APP 2026
+# Ludothèque Projet Web APP 2026
 
 ## Description
-Application web de gestion d'une ludothÃ¨que associative Ã©tudiante.
+Application web de gestion d'une ludothèque associative étudiante.
 Gestion des jeux, emprunts, locations, rÃ©servations et Ã©vÃ©nements.
 
 ## Technologies
 - **Frontend** : HTML5, CSS3, Bootstrap 5, JavaScript, jQuery, AJAX
 - **Backend** : PHP 8 (MVC natif)
-- **Base de donnÃ©es** : MySQL 8
+- **Base de données** : MySQL 8
 - **Versioning** : Git
 
 ## Installation
 
 1. **Cloner le projet** dans le dossier de votre serveur web (htdocs, www, etc.)
-2. **Importer la base de donnÃ©es** :
+2. **Importer la base de données** :
    ```
    mysql -u root -p < sql/create_database.sql
    ```
